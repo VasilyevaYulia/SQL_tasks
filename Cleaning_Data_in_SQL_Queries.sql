@@ -1,5 +1,6 @@
 /*
 Cleaning Data in SQL Queries
+using Nashville Housing Data from https://www.kaggle.com/ 
 */
 
 use SQLTutorial
